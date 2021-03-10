@@ -3,7 +3,7 @@
 This codebase contains the python scripts for GPolS, the model for the EMNLP 2020 paper [link](https://www.aclweb.org/anthology/2020.coling-main.426.pdf).
 
 ## Environment & Installation Steps
-Python 3.6, Pytorch, and networkx
+Python 3.6, Pytorch, and networkx.
 
 
 ```python
