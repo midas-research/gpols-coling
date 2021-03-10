@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 Download the dataset from [here](https://data.mendeley.com/datasets/czjfwgs9tm/2). 
 
-Follow [link](https://huggingface.co/transformers/training.html) to fine-tune BERT using speech transcripts on the classification task. Store the transcript and motion text features in folders "speeches/" and "motions/", respectively.
+Follow [link](https://huggingface.co/transformers/training.html) to fine-tune BERT using speech transcripts on the classification task. Store the transcript and motion text features in folders "speeches/" and "motions/", respectively as .npy files.
 
 
 Generate graph
